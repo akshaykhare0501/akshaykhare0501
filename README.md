@@ -1,0 +1,3 @@
+- Hi, I’m Akshay Khare.
+- I’m interested in programming, web-development and electronics.
+- I’m currently learning Electronics and Telecommunication Engineering at Vishwakarma Institute of Technology, Pune.
