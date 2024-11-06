@@ -1,3 +1,4 @@
 - Hi, I’m Akshay Khare.
 - I’m interested in programming and web development.
-- I’m currently learning Electronics and Telecommunication Engineering at Vishwakarma Institute of Technology, Pune.
+- I’m a B.Tech graduate in E&TC from Vishwakarma Institute of Technology, Pune.
+- I have a strong interest in expanding my skill set in web development. I’m particularly drawn to frontend technologies like React.js, JavaScript, HTML, and CSS, as well as core programming languages like Python, C++, and Java.
